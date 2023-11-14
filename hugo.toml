@@ -1,0 +1,4 @@
+baseURL = 'http://jasonprojects23.work/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'archie'
